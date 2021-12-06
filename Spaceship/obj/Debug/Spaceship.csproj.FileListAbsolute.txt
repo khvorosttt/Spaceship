@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.exe.config
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.exe
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.pdb
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.Form1.resources
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.exe
+C:\Users\Lenovo\Desktop\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.pdb
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.exe.config
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.exe
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\bin\Debug\Spaceship.pdb
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csprojAssemblyReference.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.Form1.resources
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.Properties.Resources.resources
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csproj.GenerateResource.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.exe
+D:\Универ\4 курс\7 семестр\ММ. Лабораторные работы\Spaceship\Spaceship\obj\Debug\Spaceship.pdb
